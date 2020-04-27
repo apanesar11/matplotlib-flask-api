@@ -4,7 +4,7 @@ Make a post request to the API and get back a png of the graph. Currently only l
 
 ### Example:
 
-#####Request Body (JSON):
+##### Request Body (JSON):
 ```json
 {
     "title": "Linear Graph",
@@ -14,5 +14,5 @@ Make a post request to the API and get back a png of the graph. Currently only l
     "ylabel": "y values"
 }
 ```
-#####API Response:
+##### API Response:
 !['Line Graph'](./example.png)
